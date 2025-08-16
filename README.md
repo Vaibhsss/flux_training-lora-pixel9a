@@ -17,13 +17,13 @@ The dataset was curated from publicly available images of **Google Pixel 9a**.
 
 Here are some samples:
 
-![Sample 1](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 3.png)
-![Sample 2](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 4.png)
-![Sample 2](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 5.png)
-![Sample 2](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 7.png)
-![Sample 2](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 8.png)
-![Sample 2](C:\Users\vaibh\Desktop\100x gen ai\Flux training dataset\sample output images\sample 9.png)
+![Sample 1](sample output images\sample 3.png)
+![Sample 2](sample output images\sample 4.png)
+![Sample 2](sample output images\sample 5.png)
+![Sample 2](sample output images\sample 7.png)
+![Sample 2](sample output images\sample 8.png)
+![Sample 2](sample output images\sample 9.png)
 
-## How to Use
+## ⭐ Why this repo?
 
-Load the LoRA into your Flux pipeline (e.g., ComfyUI, Automatic1111, or other compatible tools).
+Mainly for **future reference** and to showcase LoRA training results.
