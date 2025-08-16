@@ -17,12 +17,12 @@ The dataset was curated from publicly available images of **Google Pixel 9a**.
 
 Here are some samples:
 
-![Sample 1](sample output images/sample 3.png)
-![Sample 2](sample output images/sample 4.png)
-![Sample 2](sample output images/sample 5.png)
-![Sample 2](sample output images/sample 7.png)
-![Sample 2](sample output images/sample 8.png)
-![Sample 2](sample output images/sample 9.png)
+![Sample 1](samples/sample_3.png)
+![Sample 2](samples/sample_4.png)
+![Sample 2](samples/sample_5.png)
+![Sample 2](samples/sample_7.png)
+![Sample 2](samples/sample_8.png)
+![Sample 2](samples/sample_9.png)
 
 ## ⭐ Why this repo?
 
